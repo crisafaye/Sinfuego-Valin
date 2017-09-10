@@ -1,0 +1,19 @@
+/* custom */
+
+.container { width: 1000px;
+			}
+.header { 
+	background-color: skyblue;
+	height: 100px;
+ 
+ }
+ .footer {background-color: skyblue; 
+			bottom: 0;
+			height: 50px;}
+ .btn{
+	padding: 10px 20px;
+	font-size: 20px;
+	border-radius: 10px;
+	width:  50%
+ }
+.contents {min-height:400px;}

@@ -1,2 +1,0 @@
-# codei
-student management
